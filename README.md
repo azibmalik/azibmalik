@@ -120,9 +120,7 @@ project_stats = {
 
 <div align="center">
   
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azibmalik&layout=compact&theme=radical&hide_border=true)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azibmalik&layout=compact&theme=radical&hide_border=true&cache_seconds=1800)
 
 </div>
 
